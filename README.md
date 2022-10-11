@@ -1,7 +1,7 @@
-- 👋 Hi, I’m MinamiYoshi
-- 👀 I’m interested in developping of web services
-- 🌱 I’m currently learning HTML,CSS,JavaScript,Ruby,C laungage,
-- 💞️ I’m looking to collaborate on nothing
+- 👋 Hi, I’m MinamiYoshi.
+- 👀 I’m interested in developping of web services.
+- 🌱 I’m currently learning HTML,CSS,JavaScript,Ruby on Rails,Python.
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 
 
 <!---
